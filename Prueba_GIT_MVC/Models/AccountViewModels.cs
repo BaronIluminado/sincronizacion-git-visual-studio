@@ -5,6 +5,7 @@ namespace Prueba_GIT_MVC.Models
 {
     // Comentario de Prueba #2
     // Comentario de Retorno
+    // Comentarios añadidos en la nueva rama de prueba desde Visual Studio
 
     public class ExternalLoginConfirmationViewModel
     {
