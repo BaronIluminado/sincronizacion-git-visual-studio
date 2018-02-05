@@ -3,6 +3,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Prueba_GIT_MVC.Models
 {
+    // Comentario de Prueba
+
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
